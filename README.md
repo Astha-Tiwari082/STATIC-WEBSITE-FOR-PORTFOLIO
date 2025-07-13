@@ -23,6 +23,7 @@ In short, the Static Website for Developer Portfolio is a balanced and required 
 
 # OUTPUT
 
-<img width="1746" height="837" alt="Image" src="https://github.com/user-attachments/assets/cd2008d4-ff23-4496-ae49-fc90ff032950" />
 <img width="1889" height="843" alt="Image" src="https://github.com/user-attachments/assets/484b6893-4146-49af-8fd1-226993d9ca82" />
+<img width="1746" height="837" alt="Image" src="https://github.com/user-attachments/assets/cd2008d4-ff23-4496-ae49-fc90ff032950" />
+
 
