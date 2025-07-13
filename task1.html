@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Developer Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background-color: #1e1e2f;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      margin: 1rem 0;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #1e1e2f;
+      font-weight: bold;
+    }
+
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 2rem;
+    }
+
+    .project {
+      background-color: white;
+      padding: 1rem;
+      margin: 1rem 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba( 0, 0, 0, 0.1);
+    }
+
+    .skills-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .skill {
+      background: #1e1e2f;
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 20px;
+    }
+
+    footer {
+      background-color: #1e1e2f;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+
+    @media (max-width: 600px) {
+      nav {
+        flex-direction: column;
+        gap: 1rem;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Astha Tiwari</h1>
+    <p>Software Developer | Frontend Developer</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Astha Tiwari, a software developer specializing in frontend technologies. I’m passionate about crafting responsive, accessible, and user-friendly web interfaces. I love working with modern JavaScript frameworks, writing clean code, and continuously learning new technologies to improve user experience and performance.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="skills-list">
+        <div class="skill">C++</div>
+        <div class="skill">C</div>
+        <div class="skill">Python</div>
+        <div class="skill">Code Refactoring</div>
+      <div class="skill">HTML</div>
+      <div class="skill">CSS</div>
+      <div class="skill">JavaScript</div>
+      <div class="skill">React</div>
+      <div class="skill">Git</div>
+      <div class="skill">Responsive Design</div>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>ProTech</h3>
+      <p>A three-factor authentication-based password manager that uses facial recognition, OTP, and password layers, built with Node.js, MongoDB, and ECC for enhanced security.</p>
+    </div>
+    <div class="project">
+      <h3>Lumos</h3>
+      <p>A solar panel efficiency advisor that analyzes the amount of sunlight in the user's area and estimates potential savings from installing solar panels. Aimed at promoting sustainable energy choices through data-driven insights.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: astha.tiwari@gmail.com</p>
+
+    <p>GitHub: <a href="https://github.com/Astha-Tiwari082" target="_blank">github.com/asthatiwari</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Astha Tiwari</p>
+  </footer>
+</body>
+
+</html>
