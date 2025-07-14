@@ -10,7 +10,7 @@
 
 *DURATION*: 6 WEEKS
 
-*MENTOR*: NEELA SANTOSH 
+*MENTOR*: NEELA SANTHOSH 
 
 # STATIC WEBSITE FOR PORTFOLIO PROJECT DESCRIPTION 
 The Static Website For Portfolio is a professional and responsive personal website developed with HTML, CSS, and JavaScript. Its main goal is to act as an online presence for a software developer, highlighting important information like skills, projects, contact information, and brief biography. Such a portfolio is especially helpful for students, job applicants, and freelance developers wishing to leave a powerful first impression on recruiters, clients, or cooperators.
